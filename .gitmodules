@@ -1,6 +1,0 @@
-[submodule "model/LLM"]
-	path = model/LLM
-	url = https://github.com/kevinhyj/LLM.git
-[submodule "LLM"]
-	path = LLM
-	url = https://github.com/kevinhyj/LLM.git
